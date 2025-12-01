@@ -12,7 +12,7 @@ To integrate the Kidoz SDK into your Xcode project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", .upToNextMajor(from: "10.3.6"))
+    .package(url: "https://github.com/Kidoz-SDK/KidozSDK-Swift-Package.git", .upToNextMajor(from: "10.1.3"))
 ]
 ```
 
