@@ -26,19 +26,19 @@
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Info.plist</key>
 		<data>
-		yWl+g7foEGaBhYcMN8mEAI4ZNR4=
+		SnA5DUrMWBSJilgKjxlpuaKtjUA=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/KidozSDK</key>
 		<data>
-		eg/2W914hduMGqPqv3j1zZV7iIM=
+		dYcZCOKR3hn78L8w1ZohZHzwLZ0=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Qeq2zapm4In9G8xhzFcaKdVL7Ng=
+		05x1YoJtrsjjt4jHL2i3BvYGoeg=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cJPalw0rkHHNpbYWvhxXLg9jrhI=
+		BlYUTPwEJrzyJqTcyZz9n3nAoRM=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cJPalw0rkHHNpbYWvhxXLg9jrhI=
+		BlYUTPwEJrzyJqTcyZz9n3nAoRM=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		PJ13c9BAA6aF+AEnHyJUBTqPB+U=
+		E8u7dFOMWQB6JpYJrwjCKyErZc8=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xQMGJwPgEuSm+PVnZ+nsshMOJ+U=
+		U/2MwEMnJLyN5z4s2Ngxi0zi/t8=
 		</data>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		drXifNIuUCsqge8m3QPN7aSS5CQ=
+		UPSBLfVi+G/6XWooWRgxRvDT7fI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Headers/KidozOMIDService.h</key>
 		<data>
@@ -94,19 +94,19 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Info.plist</key>
 		<data>
-		wzgf0HUukRJKDgsReOplG9Yp3T8=
+		Xt+1H1jn113umn0Pmje17NWx7uI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/KidozSDK</key>
 		<data>
-		53BdipOcX/TMWkuQig6OsBoW3II=
+		qicXvpjOH98cvJTEe5Uk58ZUBTA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		rQyrW9eQtvy11UMMZrgQTtyBsig=
+		rr55Bfb4RHoPlle9lUjkfUEMxg8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NIr31opz1/vW/FiSSVsuS3iGjBc=
+		IbgQXYFcHgcjWawEYT34IPTKh5A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -114,15 +114,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NIr31opz1/vW/FiSSVsuS3iGjBc=
+		IbgQXYFcHgcjWawEYT34IPTKh5A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		rQyrW9eQtvy11UMMZrgQTtyBsig=
+		rr55Bfb4RHoPlle9lUjkfUEMxg8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HmqvIf9VOn1aCn/CFrIsYf7SEVE=
+		26TOOx4+un0uwZ7pAA6Qkrg5SVA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HmqvIf9VOn1aCn/CFrIsYf7SEVE=
+		26TOOx4+un0uwZ7pAA6Qkrg5SVA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		6PtgMNCOtKNDsKt0piIqWoryS2c=
+		MZShZXk9gPH2LDsV4TOuoq0zBjo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		yFXRMtMO6bOieX7m/69sNC58Tzs=
+		JFke7KN3LXHoW32dVN04ipl3o1g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -198,28 +198,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3tLLA+lgnkHCaJdnMf31AMrA/A31tmHQwn+Wi9cb0M=
+			a6ScFVcqKKAvJsaljwDzUdYxcBTs4ICMOqqp5NYTNRg=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/KidozSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ipl79GNZi+tvC0JLw+pMm1MQ5hcIdBEnRWzvdyU7SQQ=
+			sP7wYVw0sKe2R+TXSQiT1cJtQBRU3mCx32SK8kFyM6U=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQR5BxkzIvbXEZgWDzaGbV4efvD9yJQb1H8bMQnwfzw=
+			ItUd+fnSwp+e/7Gc13aWRqR9LZpVDUpEaYoOwgQABRU=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iGz4R6C5yt3VwmP8vsud2yo5M5gRTBuCu6LWrw3I81Y=
+			bFBM92lMXg2b+SzMmWkrWaNOqa4q3I+r9qVxFIvCZvI=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iGz4R6C5yt3VwmP8vsud2yo5M5gRTBuCu6LWrw3I81Y=
+			bFBM92lMXg2b+SzMmWkrWaNOqa4q3I+r9qVxFIvCZvI=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/Modules/module.modulemap</key>
@@ -254,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LWqb6x901ZKTzfEJ8sASJcW0ktR0RB7rShS3DpvheAU=
+			XgfzRIyikE2erPeJSBmIp/b98PvH4WB09OF/BRCNUDU=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -268,14 +268,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mwkkROfd4Lme/9Y3mYQYM8zR1O5pnxnrVX+dOvHlxns=
+			LRBTQSCu6yVPWzHBc7z4LbIPlUtsN5oInWYpf7c6FKw=
 			</data>
 		</dict>
 		<key>ios-arm64/KidozSDK.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5B1ghtlCbTjZ1hEAD0Rqq3lzZpVV8mKlMYJhe0YAoFY=
+			PL2rFfzDhmXKjNLE2K6c5hwqFscWcmTQf9HMHJm+4do=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Headers/KidozOMIDService.h</key>
@@ -317,28 +317,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lN7EdGP9YpyR87MPlDMkpCi2DUKt6TxkJbSDFIEXNVg=
+			2hFzTGgAkbM3QCxMB/iYMpdm/yRM8As9VlZ1hpjXI38=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/KidozSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yov8wG5LwHD4F2MHmPL/sRBC5OTnOs22u1FMxCwYRBc=
+			HZmb25xRjyAFNHAsTc0mzaBBmsK6EBMMQUM2Kiw0DIs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wJUbuGc2U9YF0Ad/RAB77y82qzArE5Xk+YEV4BhcA6k=
+			IGqV8tjIaNnEOGWLyjD4MgPTijFwCyP30CAzb2+YTzk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cK67afYLshL5q/ArZEs0gIkh/3jtM3hMm8DZbfZPZ/Q=
+			/FbYavNr4dux3xN6YK/9RdlLqfESND/o40DoMoxv3b0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -352,21 +352,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cK67afYLshL5q/ArZEs0gIkh/3jtM3hMm8DZbfZPZ/Q=
+			/FbYavNr4dux3xN6YK/9RdlLqfESND/o40DoMoxv3b0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wJUbuGc2U9YF0Ad/RAB77y82qzArE5Xk+YEV4BhcA6k=
+			IGqV8tjIaNnEOGWLyjD4MgPTijFwCyP30CAzb2+YTzk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pPp/uBGvcOAmlg4tdu35YrHn+HYAPb4aMixZCbXAT/Q=
+			TJ65MuAwD3Vl000w9aqww6k2QJ8/te8CBiOwXkOLGrU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/KidozSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -380,7 +380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pPp/uBGvcOAmlg4tdu35YrHn+HYAPb4aMixZCbXAT/Q=
+			TJ65MuAwD3Vl000w9aqww6k2QJ8/te8CBiOwXkOLGrU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/Modules/module.modulemap</key>
@@ -401,7 +401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QAGIT0+SwpqaRYun/AXXyxJIIcqZWkK17cuDsWIp38c=
+			Gn1YtqVBKT7+WLZV3GCRsN0ERMhIcn9YPjMgMX2GJcg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -415,7 +415,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tg7BdEKt/y5lieGpRjZpcz4u6/du8UhQqsFp+LAcj4s=
+			hPYHKXfJV/E904NaKtxlPo6Dcn96G0y7vmZgbfSWGxM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KidozSDK.framework/_CodeSignature/CodeSignature</key>

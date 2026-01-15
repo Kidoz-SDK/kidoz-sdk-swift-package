@@ -17,9 +17,6 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public enum SDKMetadata {
-  public static let version: Swift.String
-}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KPBid) public class KPBid : ObjectiveC.NSObject {
   public var id: Swift.String {
     get
@@ -153,14 +150,19 @@ public enum SDKMetadata {
     }
   }
   public static func getEnvironment(sdkString: Swift.String, environmentString: Swift.String) -> KidozSDK.TestUtils.Environment
+  public static func getSDKLabels() -> [Swift.String]
+  public static func getEnvLabels(sdk: KidozSDK.SDKType) -> [Swift.String]
   public static func getCurrentSDKType() -> KidozSDK.SDKType
   public static func setCurrentSDKType(sdk: KidozSDK.SDKType)
-  public static func setEnvApiUrl(apiUrl: Swift.String)
+  public static func isKidoz() -> Swift.Bool
   @objc public static func getEnvApiUrl() -> Swift.String?
+  public static func setEnvApiUrl(apiUrl: Swift.String)
   @objc public static func getOverrideWaterfallUrl() -> Swift.String?
   public static func setOverrideWaterfallUrl(waterfallUrl: Swift.String?)
   public static func getTestWaterfallUrl() -> Swift.String?
   public static func setTestWaterfallUrl(waterfallUrl: Swift.String?)
+  public static func isRTBTestMode() -> Swift.Bool
+  public static func setRTBTestMode(isRTBTestMode: Swift.Bool)
   @objc public static func setEnvironment(sdkTypeStr: Swift.String, environmentStr: Swift.String)
   @objc public static func getBundleVersion() -> Swift.String
   public static func setEnvironment(environment: KidozSDK.TestUtils.Environment)

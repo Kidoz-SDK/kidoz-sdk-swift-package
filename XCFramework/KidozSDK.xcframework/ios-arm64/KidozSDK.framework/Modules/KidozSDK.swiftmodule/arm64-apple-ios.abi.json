@@ -6,84 +6,6 @@
     "children": [
       {
         "kind": "TypeDecl",
-        "name": "SDKMetadata",
-        "printedName": "SDKMetadata",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "version",
-            "printedName": "version",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8KidozSDK11SDKMetadataO7versionSSvpZ",
-            "mangledName": "$s8KidozSDK11SDKMetadataO7versionSSvpZ",
-            "moduleName": "KidozSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8KidozSDK11SDKMetadataO7versionSSvgZ",
-                "mangledName": "$s8KidozSDK11SDKMetadataO7versionSSvgZ",
-                "moduleName": "KidozSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:8KidozSDK11SDKMetadataO",
-        "mangledName": "$s8KidozSDK11SDKMetadataO",
-        "moduleName": "KidozSDK",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "KPBid",
         "printedName": "KPBid",
         "children": [
@@ -4580,6 +4502,74 @@
           },
           {
             "kind": "Function",
+            "name": "getSDKLabels",
+            "printedName": "getSDKLabels()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8KidozSDK9TestUtilsC12getSDKLabelsSaySSGyFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC12getSDKLabelsSaySSGyFZ",
+            "moduleName": "KidozSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getEnvLabels",
+            "printedName": "getEnvLabels(sdk:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SDKType",
+                "printedName": "KidozSDK.SDKType",
+                "usr": "s:8KidozSDK7SDKTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8KidozSDK9TestUtilsC12getEnvLabels3sdkSaySSGAA7SDKTypeO_tFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC12getEnvLabels3sdkSaySSGAA7SDKTypeO_tFZ",
+            "moduleName": "KidozSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "getCurrentSDKType",
             "printedName": "getCurrentSDKType()",
             "children": [
@@ -4631,24 +4621,19 @@
           },
           {
             "kind": "Function",
-            "name": "setEnvApiUrl",
-            "printedName": "setEnvApiUrl(apiUrl:)",
+            "name": "isKidoz",
+            "printedName": "isKidoz()",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:8KidozSDK9TestUtilsC12setEnvApiUrl03apiH0ySS_tFZ",
-            "mangledName": "$s8KidozSDK9TestUtilsC12setEnvApiUrl03apiH0ySS_tFZ",
+            "usr": "s:8KidozSDK9TestUtilsC02isA0SbyFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC02isA0SbyFZ",
             "moduleName": "KidozSDK",
             "static": true,
             "declAttributes": [
@@ -4686,6 +4671,34 @@
               "Final",
               "AccessControl",
               "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setEnvApiUrl",
+            "printedName": "setEnvApiUrl(apiUrl:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8KidozSDK9TestUtilsC12setEnvApiUrl03apiH0ySS_tFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC12setEnvApiUrl03apiH0ySS_tFZ",
+            "moduleName": "KidozSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -4816,6 +4829,57 @@
             "declKind": "Func",
             "usr": "s:8KidozSDK9TestUtilsC03setC12WaterfallUrl09waterfallG0ySSSg_tFZ",
             "mangledName": "$s8KidozSDK9TestUtilsC03setC12WaterfallUrl09waterfallG0ySSSg_tFZ",
+            "moduleName": "KidozSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isRTBTestMode",
+            "printedName": "isRTBTestMode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8KidozSDK9TestUtilsC13isRTBTestModeSbyFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC13isRTBTestModeSbyFZ",
+            "moduleName": "KidozSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setRTBTestMode",
+            "printedName": "setRTBTestMode(isRTBTestMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8KidozSDK9TestUtilsC14setRTBTestMode02isfG0ySb_tFZ",
+            "mangledName": "$s8KidozSDK9TestUtilsC14setRTBTestMode02isfG0ySb_tFZ",
             "moduleName": "KidozSDK",
             "static": true,
             "declAttributes": [
@@ -7310,13 +7374,6 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KPAdPlayerSDK\/AutoGenerated\/SDKMetadata.swift",
-      "kind": "StringLiteral",
-      "offset": 128,
-      "length": 8,
-      "value": "\"10.1.3\""
-    },
-    {
       "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KPAdPlayerSDK\/RTB\/KPBid.swift",
       "kind": "BooleanLiteral",
       "offset": 248,
@@ -8150,6 +8207,13 @@
       "value": "\"TEST_WATERFALL_URL_KEY\""
     },
     {
+      "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KPAdPlayerSDK\/Utils\/TestUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 572,
+      "length": 22,
+      "value": "\"IS_RTB_TEST_MODE_KEY\""
+    },
+    {
       "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KPAdPlayerSDK\/Utils\/KPSessionData.swift",
       "kind": "BooleanLiteral",
       "offset": 200,
@@ -8302,6 +8366,13 @@
       "offset": 2753,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KidozSDK\/KidozSDK\/KidozVersion.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 8,
+      "value": "\"10.1.3\""
     },
     {
       "filePath": "\/Users\/yarden\/Development\/iOS\/kpadplayer-ios-sdk\/KPAdPlayerSDK\/ParentalGate\/GateViewModel.swift",
