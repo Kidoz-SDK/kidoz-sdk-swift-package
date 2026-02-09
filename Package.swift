@@ -17,8 +17,8 @@ let package = Package(
         
         .binaryTarget(
             name: "KidozSDK",
-            url: "https://github.com/Kidoz-SDK/kidoz-ios-frameworks/raw/refs/heads/main/KidozSDK/10.1.4/KidozSDK.zip",
-            checksum: "cc2cb9e8b8bbb47c46d0c60a3cdbb47300e2ff10377456b91edda736ff924b87"
+            url: "https://github.com/Kidoz-SDK/kidoz-ios-frameworks/raw/refs/heads/main/KidozSDK/10.1.5/KidozSDK.zip",
+            checksum: "33ac4493706048866e00f7dc40dfdb230554371e3efb7751e0d54fda217210f9"
         )
     ]
 )
