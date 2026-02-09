@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "KidozSDK",
     platforms: [
-        .iOS(.v12) // or your minimum supported version
+        .iOS(.v12)
     ],
     products: [
         .library(
@@ -12,11 +12,13 @@ let package = Package(
             targets: ["KidozSDK"]
         )
     ],
+    
     targets: [
+        
         .binaryTarget(
             name: "KidozSDK",
-            path: "XCFramework/KidozSDK.xcframework"
+            url: "https://github.com/Kidoz-SDK/kidoz-ios-frameworks/raw/refs/heads/main/KidozSDK/10.1.4/KidozSDK.zip",
+            checksum: "cc2cb9e8b8bbb47c46d0c60a3cdbb47300e2ff10377456b91edda736ff924b87"
         )
     ]
 )
-
